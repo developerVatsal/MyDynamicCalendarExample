@@ -47,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
         myCalendar.setCalendarBackgroundColor("#eeeeee");
 //        myCalendar.setCalendarBackgroundColor(R.color.gray);
 
